@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="cmdArguments" value="-S --line-length 80" />
+    <option name="enabledOnReformat" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="C:\Users\mxnoob\AppData\Local\Programs\Python\Python39\Scripts\black.exe" />
+    <option name="sdkName" value="Python 3.9 (quiz_app)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (quiz_app)" project-jdk-type="Python SDK" />
+</project>
