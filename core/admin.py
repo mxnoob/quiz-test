@@ -1,7 +1,7 @@
 from django.contrib import admin
 
-from .forms import QuestionForm, GameForm
-from .models import Game, Question, Answer
+from .forms import GameForm, QuestionForm
+from .models import Answer, Game, Question
 
 
 @admin.register(Answer)

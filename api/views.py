@@ -1,8 +1,8 @@
 from django.shortcuts import get_object_or_404
-from rest_framework import viewsets, views
+from rest_framework import viewsets
 
-from .serializers import AnswerSerializer, QuestionSerializer, GameSerializer
-from core.models import Question, Game, Answer
+from core.models import Game, Question
+from .serializers import AnswerSerializer, GameSerializer, QuestionSerializer
 
 
 class AnswerViewSet(viewsets.ReadOnlyModelViewSet):
