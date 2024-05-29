@@ -57,3 +57,7 @@ GET /api/v1/games/{game_id}/questions/{question_id}/
 - Python
 - Django
 - Django REST Framework
+
+## Автор:
+
+[mxnoob](https://www.github.com/mxnoob)
